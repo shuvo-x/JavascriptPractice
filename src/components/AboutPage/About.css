@@ -1,0 +1,25 @@
+.main-about-div{
+    background-color: rgba(255, 255, 255, 0.884);
+    height: 600px;
+    display: grid;
+    align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.about-img{
+    width: 100%;
+    margin: 0 0 10px 0;
+    padding-right: 0;
+}
+#about-content-part{
+    padding:100px 70px;
+}
+#about-content-part h2{
+    max-width: 470px;
+   line-height: 43px;
+}
+#about-img-col{
+    max-width: 500px;
+}
